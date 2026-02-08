@@ -1,7 +1,7 @@
-# CLASS_TRACK
+# CLASS_TRACK (UNFINISHED)
 
 CLASS_TRACK is a web application created in PHP, ReactJS, and MySQL to manage your school subjects and learning entries.  
-You can add subjects, create notes for each subject, and track your learning progress.
+You can add subjects, create notes for each subject, and track your schedules and requirements.
 
 ---
 
