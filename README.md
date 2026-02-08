@@ -37,7 +37,7 @@ mysql -u root -p class_track < backend/sql/schema.sql
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'class_track');
+define('DB_NAME', 'class_tracker');
 ```
 
 ### 2. Backend
